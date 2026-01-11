@@ -1,7 +1,6 @@
 import zipfile
 import os
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
-import wget
 from google.colab import files
 import numpy as np
 from tensorflow.python import metrics
