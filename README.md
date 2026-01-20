@@ -43,13 +43,7 @@ As seguintes bibliotecas são instaladas automaticamente ao executar `uv sync`:
 ```
 python-learning/
 ├── deep-learning/          # Scripts de Deep Learning
-│   ├── backprogramming.py
-│   ├── deep-net.py
-│   ├── non-convex-function.py
-│   └── speech_recognition_example.py
 ├── machine-learning/       # Scripts de Machine Learning
-│   ├── cluster/
-│   └── dimensionality-reduction/
 ├── view-chart/             # Visualizações
 └── pyproject.toml          # Configuração do projeto e dependências
 ```
